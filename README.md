@@ -29,7 +29,6 @@ Thank you for coming in to the site here. It's been an awesome experience ventur
 Hope you had fun and benefit from it too. 😄
 Have an awesome day ahead. 
 
-Abdul Rauf | [LinkedIn](https://www.linkedin.com/in/abdrauf26/) 
-📧 : raufschoolbag@gmail.com
+Abdul Rauf | [LinkedIn](https://www.linkedin.com/in/abdrauf26/)| 📧 : raufschoolbag@gmail.com
 
 
