@@ -26,11 +26,11 @@ It aims to provide clarity in understanding the different property prices and tr
 
 
 Thank you for coming in to the site here. It's been an awesome experience venturing into the data analysis process. :+1: 
-Hope you had fun and benefit from it too. Let's go.... :shipit:
+Hope you had fun and benefit from it too. 😄
 Have an awesome day ahead. 
 
-Abdul Rauf
+Abdul Rauf | [LinkedIn](https://www.linkedin.com/in/abdrauf26/) 
 
-📧 : raufschoolbag@gmail.com
-[LinkedIn](https://www.linkedin.com/in/abdrauf26/) 
+Reach me at 📧 : raufschoolbag@gmail.com
+
 
