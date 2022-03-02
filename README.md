@@ -31,4 +31,4 @@ Have an awesome day ahead.
 
 Abdul Rauf---
 
-[LinkedIn](https://www.linkedin.com/in/abdrauf26/) | [Email] (raufschoolbag@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/abdrauf26/) | [Email](raufschoolbag@gmail.com) 
