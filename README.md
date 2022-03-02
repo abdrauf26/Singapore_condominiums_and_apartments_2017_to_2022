@@ -30,7 +30,6 @@ Hope you had fun and benefit from it too. 😄
 Have an awesome day ahead. 
 
 Abdul Rauf | [LinkedIn](https://www.linkedin.com/in/abdrauf26/) 
-
-Reach me at 📧(raufschoolbag@gmail.com)
+📧 : raufschoolbag@gmail.com
 
 
