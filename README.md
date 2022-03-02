@@ -37,7 +37,7 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 - Download dataset for data analysis for Singapore condominiums and apartments (January 2017 and January 2022)
 - https://drive.google.com/file/d/1qK5Bn_zQvD5W5Up7AD_NtSo2hH7fYMqS/view?usp=sharing
 
-![image]https://cdn.pixabay.com/photo/2013/12/16/17/13/singapore-229387_1280.jpg
+![image](https://cdn.pixabay.com/photo/2013/12/16/17/13/singapore-229387_1280.jpg)
 
 Thank you for coming in to the site here. It's been an awesome experience venturing into the data analysis process. :+1: 
 Hope you had fun and benefit from it too. 😄
