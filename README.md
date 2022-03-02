@@ -4,6 +4,9 @@ The goal of the project is to carry out an industry-relevant project in applied 
 
 For the project, a private residential property transaction dataset on the Singapore condominiums and apartments (January 2017 and January 2022) has been chosen from the following  [URA](https://www.ura.gov.sg/realEstateIIWeb/transaction/search.action) website. 
 
+## Problem Statement
+
+
 
 
 
