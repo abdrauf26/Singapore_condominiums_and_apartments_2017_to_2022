@@ -24,12 +24,12 @@ Through the data analysis, it aims to enable one to understand the different cha
 
 ## Built With
 
-Jupyter Notebook
-Python
-Pandas
-Seaborn
-Matplotlib
-Plotly
+- Jupyter Notebook
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
+- Plotly
 
 
 ## Dataset 📊
