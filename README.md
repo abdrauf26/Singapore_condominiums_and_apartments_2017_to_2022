@@ -4,7 +4,7 @@ The goal of the project is to carry out an industry-relevant project in applied 
 
 ## Problem Statement
 
-![image](https://user-images.githubusercontent.com/96287600/156382618-bff36f85-b066-46d0-acef-19de14525c2e.png)
+![image](https://cdn.pixabay.com/photo/2014/03/15/16/34/construction-287876_1280.jpg)
 
 In our current times that we are living in, there are many factors involved in relation to the Singapore property and real estate prices.
 Over the past 5 years that includes the COVID-19 period between January 2020 to January 2022, it has been an interesting journey of constant changes and adaptability.
