@@ -24,15 +24,13 @@ Through the data analysis, it aims to enable one to understand the different cha
 
 ## Built With
 
+Jupyter Notebook
+Python
+Pandas
+Seaborn
+Matplotlib
+Plotly
 
-Next.js
-React.js
-Vue.js
-Angular
-Svelte
-Laravel
-Bootstrap
-JQuery
 
 ## Dataset 📊
 
