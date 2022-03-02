@@ -36,6 +36,8 @@ JQuery
 
 ## Dataset 📊
 
+- Download dataset for data analysis for Singapore condominiums and apartments (January 2017 and January 2022)
+- https://docs.google.com/spreadsheets/d/1bXex0IwXya_yMfDlwiXHdyGzutm3eXaT/edit?usp=sharing&ouid=103017552373274414032&rtpof=true&sd=true
 
 Thank you for coming in to the site here. It's been an awesome experience venturing into the data analysis process. :+1: 
 Hope you had fun and benefit from it too. 😄
