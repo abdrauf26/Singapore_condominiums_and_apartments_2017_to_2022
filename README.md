@@ -4,6 +4,8 @@ The goal of the project is to carry out an industry-relevant project in applied 
 
 ## Problem Statement
 
+![image](https://user-images.githubusercontent.com/96287600/156382618-bff36f85-b066-46d0-acef-19de14525c2e.png)
+
 In our current times that we are living in, there are many factors involved in relation to the Singapore property and real estate prices.
 Over the past 5 years that includes the COVID-19 period between January 2020 to January 2022, it has been an interesting journey of constant changes and adaptability.
 The data analysis for this project will include Singapore Condominium & Apartment Prices dataset between the period of January 2017 to January 2022. Through the data analysis, it aims to enable one to understand the different characteristics of the properties within all the districts, the real estate trends in current times and see its correlations to the different factors such as :
