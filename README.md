@@ -20,9 +20,21 @@ It aims to provide clarity in understanding the different property prices and tr
 - Market Segment
 - Floor Level
 
+Through the data analysis, it aims to enable one to understand the different characteristics of the properties within all the districts and the real estate trends in current times.
+
+## Built With
 
 
+Next.js
+React.js
+Vue.js
+Angular
+Svelte
+Laravel
+Bootstrap
+JQuery
 
+## Dataset 📊
 
 
 Thank you for coming in to the site here. It's been an awesome experience venturing into the data analysis process. :+1: 
