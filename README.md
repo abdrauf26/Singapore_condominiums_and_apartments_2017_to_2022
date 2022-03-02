@@ -4,7 +4,7 @@ The goal of the project is to carry out an industry-relevant project in applied 
 
 ## Problem Statement
 
-![image](https://cdn.pixabay.com/photo/2014/03/15/16/34/construction-287876_1280.jpg)
+![image](https://cdn.pixabay.com/photo/2013/12/16/17/13/singapore-229387_1280.jpg)
 
 In our current times that we are living in, there are many factors involved in relation to the Singapore property and real estate prices.
 Over the past 5 years that includes the COVID-19 period between January 2020 to January 2022, it has been an interesting journey of constant changes and adaptability.
@@ -37,7 +37,9 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 - Download dataset for data analysis for Singapore condominiums and apartments (January 2017 and January 2022)
 - https://drive.google.com/file/d/1qK5Bn_zQvD5W5Up7AD_NtSo2hH7fYMqS/view?usp=sharing
 
-![image](https://cdn.pixabay.com/photo/2013/12/16/17/13/singapore-229387_1280.jpg)
+
+
+![image](https://cdn.pixabay.com/photo/2014/03/15/16/34/construction-287876_1280.jpg)
 
 Thank you for coming in to the site here. It's been an awesome experience venturing into the data analysis process. :+1: 
 Hope you had fun and benefit from it too. 😄
