@@ -48,7 +48,9 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 ![image](https://cdn.pixabay.com/photo/2014/03/15/16/34/construction-287876_1280.jpg)
 
 Thank you for coming in to the site here. It's been an awesome experience venturing into the data analysis process. :+1: 
+
 Hope you had fun and benefit from it too. 😄
+
 Have an awesome day ahead. 
 
 Abdul Rauf 
