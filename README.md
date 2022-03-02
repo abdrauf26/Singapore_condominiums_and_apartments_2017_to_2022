@@ -29,6 +29,8 @@ Thank you for coming in to the site here. It's been an awesome experience ventur
 Hope you had fun and benefit from it too. Let's go.... :shipit:
 Have an awesome day ahead. 
 
-Abdul Rauf---
+Abdul Rauf
 
-[LinkedIn](https://www.linkedin.com/in/abdrauf26/) | [Email](raufschoolbag@gmail.com) 
+📧 : raufschoolbag@gmail.com
+[LinkedIn](https://www.linkedin.com/in/abdrauf26/) 
+
