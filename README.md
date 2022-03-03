@@ -24,7 +24,7 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 
 ## Built With 💻
 
-- [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+- [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)](https://jupyter.org/try)
 - [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 - Pandas
 - Numpy
@@ -53,11 +53,9 @@ Abdul Rauf -- 📧 : raufschoolbag@gmail.com --
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/abdrauf26/)
 
-![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=plastic)
 
-![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat-square)
 
-![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)
+
 Project Link:  https://github.com/abdrauf26/abdul_rauf_repo
 
 ## Acknowledgements
