@@ -53,8 +53,8 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 
 ### Trends observed from January 2017 to January 2022 in terms of Unit Price ($psf) 
 
-- [Unit($psf) - 2017](https://plotly.com/~ab.rauf/41/)
-- [Unit($psf) with outliers - 2017](https://plotly.com/~ab.rauf/43/)
+- [Unit($psf) - 2017](https://plotly.com/~ab.rauf/43/)
+- [Unit($psf) with outliers - 2017](https://plotly.com/~ab.rauf/41/)
 
 ![image](https://cdn.pixabay.com/photo/2014/03/15/16/34/construction-287876_1280.jpg)
 
