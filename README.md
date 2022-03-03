@@ -49,7 +49,7 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 ![image](https://cdn.pixabay.com/photo/2014/03/15/16/34/construction-287876_1280.jpg)
 
 ## Contact 📧
-Abdul Rauf -- 📧 : raufschoolbag@gmail.com -- [LinkedIn](https://www.linkedin.com/in/abdrauf26/) 
+Abdul Rauf -- 📧 : raufschoolbag@gmail.com -- [LinkedIn](https://www.linkedin.com/in/abdrauf26/) ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)
 
 Project Link:  https://github.com/abdrauf26/abdul_rauf_repo
 
@@ -63,9 +63,6 @@ Project Link:  https://github.com/abdrauf26/abdul_rauf_repo
 - [Data.gov.sg](https://data.gov.sg/)
 - [Github](https://github.com/)
 - Badges - https://naereen.github.io/badges/
-
- [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
- 
 
 
 Thank you for coming in to the site here. It's been an awesome experience venturing into the data analysis process. :+1: 
