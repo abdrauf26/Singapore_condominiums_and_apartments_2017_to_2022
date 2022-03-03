@@ -49,13 +49,23 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 ![image](https://cdn.pixabay.com/photo/2014/03/15/16/34/construction-287876_1280.jpg)
 
 ## Contact 📧
-Abdul Rauf -- 📧 : raufschoolbag@gmail.com -- [LinkedIn](https://www.linkedin.com/in/abdrauf26/) | 
+Abdul Rauf -- 📧 : raufschoolbag@gmail.com -- [LinkedIn](https://www.linkedin.com/in/abdrauf26/) 
+
+Project Link:  https://github.com/abdrauf26/abdul_rauf_repo
 
 ## Acknowledgements
 
+- [Jupyter](https://jupyter.org/)
 - [Conda](https://docs.conda.io/en/latest/)
+- [Anaconda](https://anaconda.org/)
+- [Pixabay](https://pixabay.com/)
+- [URA - Private Residential Property Transactions](https://www.ura.gov.sg/realEstateIIWeb/transaction/search.action)
+- [Data.gov.sg](https://data.gov.sg/)
+- [Github](https://github.com/)
+- 
 
-Project Link:  https://github.com/abdrauf26/abdul_rauf_repo
+ [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+
 
 Thank you for coming in to the site here. It's been an awesome experience venturing into the data analysis process. :+1: 
 
