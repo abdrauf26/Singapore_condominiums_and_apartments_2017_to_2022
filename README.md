@@ -48,7 +48,7 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 
 ## Data Visualization 📉
 ### Plotly
-[Unit($psf) - 2017](plotly.com/~ab.rauf/41/)
+[Unit($psf) - 2017](https://plotly.com/~ab.rauf/41/)
 
 ![image](https://cdn.pixabay.com/photo/2014/03/15/16/34/construction-287876_1280.jpg)
 
