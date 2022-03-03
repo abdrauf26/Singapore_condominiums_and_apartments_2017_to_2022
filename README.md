@@ -40,6 +40,7 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 - conda install -c conda-forge matplotlib
 - conda install -c anaconda seaborn
 - conda install -c anaconda pandas
+- conda install -c conda-forge python-dotenv
 
 ## Dataset 📊
 
