@@ -66,7 +66,6 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 - [Unit($psf) with outliers - 2021](https://plotly.com/~ab.rauf/37/)
 
 
-![image](https://cdn.pixabay.com/photo/2014/03/15/16/34/construction-287876_1280.jpg)
 
 ## Contact 📧
 
@@ -88,6 +87,7 @@ Project Link:  https://github.com/abdrauf26/abdul_rauf_repo
 - Badges - https://badges.pages.dev/
 - Badges - https://naereen.github.io/badges/
 
+![image](https://cdn.pixabay.com/photo/2014/03/15/16/34/construction-287876_1280.jpg)
 
 
 
