@@ -47,7 +47,6 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 - https://drive.google.com/file/d/1qK5Bn_zQvD5W5Up7AD_NtSo2hH7fYMqS/view?usp=sharing
 
 ## Data Visualization 📉
-### Plotly
 
 ![image](https://user-images.githubusercontent.com/96287600/156498899-724321c5-16a1-49f6-88f6-a0da9f19f70b.png)
 
