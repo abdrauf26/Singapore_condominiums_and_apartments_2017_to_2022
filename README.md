@@ -50,7 +50,13 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 
 ## Contact 📧
 Abdul Rauf -- 📧 : raufschoolbag@gmail.com -- 
-!LinkedIn Badge]((https://www.linkedin.com/in/abdrauf26/) )
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/abdrauf26/)
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+!LinkedIn Badge](() )
 
 Project Link:  https://github.com/abdrauf26/abdul_rauf_repo
 
