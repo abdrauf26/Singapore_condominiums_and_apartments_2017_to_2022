@@ -34,17 +34,20 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 - Chart Studio
 
 
-## Dataset 📊
-
-- Download dataset for data analysis for Singapore condominiums and apartments (January 2017 and January 2022)
-- https://drive.google.com/file/d/1qK5Bn_zQvD5W5Up7AD_NtSo2hH7fYMqS/view?usp=sharing
-
 ## Setup 🖥️
 - conda install jupyter
 - conda install -c plotly plotly
 - conda install -c conda-forge matplotlib
 - conda install -c anaconda seaborn
 - conda install -c anaconda pandas
+
+## Dataset 📊
+
+- Download dataset for data analysis for Singapore condominiums and apartments (January 2017 and January 2022)
+- https://drive.google.com/file/d/1qK5Bn_zQvD5W5Up7AD_NtSo2hH7fYMqS/view?usp=sharing
+
+## Data Visualization 💹
+-
 
 ![image](https://cdn.pixabay.com/photo/2014/03/15/16/34/construction-287876_1280.jpg)
 
