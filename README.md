@@ -50,7 +50,6 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 
 ## Contact 📧
 
-Abdul Rauf 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/abdrauf26/)
 
