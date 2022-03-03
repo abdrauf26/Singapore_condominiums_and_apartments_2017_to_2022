@@ -25,11 +25,13 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 ## Built With 💻
 
 - Jupyter Notebook
-- Python
+- Python 3.9.7
 - Pandas
+- Numpy
 - Seaborn
 - Matplotlib
 - Plotly
+- Chart Studio
 
 
 ## Dataset 📊
@@ -43,9 +45,17 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 - conda install -c conda-forge matplotlib
 - conda install -c anaconda seaborn
 - conda install -c anaconda pandas
-- conda install -c anaconda python
 
 ![image](https://cdn.pixabay.com/photo/2014/03/15/16/34/construction-287876_1280.jpg)
+
+## Contact 📧
+Abdul Rauf -- 📧 : raufschoolbag@gmail.com -- [LinkedIn](https://www.linkedin.com/in/abdrauf26/) | 
+
+## Acknowledgements
+
+- [Conda](https://docs.conda.io/en/latest/)
+
+Project Link:  https://github.com/abdrauf26/abdul_rauf_repo
 
 Thank you for coming in to the site here. It's been an awesome experience venturing into the data analysis process. :+1: 
 
@@ -55,6 +65,6 @@ Have an awesome day ahead.
 
 Abdul Rauf 
 
-[LinkedIn](https://www.linkedin.com/in/abdrauf26/) | 📧 : raufschoolbag@gmail.com
+
 
 
