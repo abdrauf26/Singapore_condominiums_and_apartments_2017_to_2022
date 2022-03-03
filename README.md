@@ -25,7 +25,7 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 ## Built With 💻
 
 - [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)](https://jupyter.org/try)
-- [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+- [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)](https://www.python.org/)
 - Pandas
 - Numpy
 - Seaborn
@@ -49,8 +49,6 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 ![image](https://cdn.pixabay.com/photo/2014/03/15/16/34/construction-287876_1280.jpg)
 
 ## Contact 📧
-
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/abdrauf26)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/abdrauf26/)
 
