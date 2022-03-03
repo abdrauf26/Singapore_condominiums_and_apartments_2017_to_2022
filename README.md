@@ -25,6 +25,8 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 ## Built With 💻
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+made-with-python
 
 - Jupyter Notebook
 - Python 3.9.7
@@ -64,7 +66,7 @@ Project Link:  https://github.com/abdrauf26/abdul_rauf_repo
 - [URA - Private Residential Property Transactions](https://www.ura.gov.sg/realEstateIIWeb/transaction/search.action)
 - [Data.gov.sg](https://data.gov.sg/)
 - [Github](https://github.com/)
-- 
+- Badges - https://naereen.github.io/badges/
 
  [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
  
