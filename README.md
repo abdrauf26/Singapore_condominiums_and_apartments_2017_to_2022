@@ -48,7 +48,7 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 
 ## Data Visualization 📉
 
-[![image](https://user-images.githubusercontent.com/96287600/156498899-724321c5-16a1-49f6-88f6-a0da9f19f70b.png)](https://drive.google.com/file/d/1OdPzS1Zj5DbEnWGs3n9Rj0FMhE1H26wZ/view?usp=sharing)
+[![image](https://user-images.githubusercontent.com/96287600/156498899-724321c5-16a1-49f6-88f6-a0da9f19f70b.png)]
 
 ### Trends observations in terms of Unit Price ($psf).
 
