@@ -74,7 +74,7 @@ Project Link:  https://github.com/abdrauf26/abdul_rauf_repo
 
 Thank you for coming in to the site here. It's been an awesome experience venturing into the data analysis process. 
 
-Hope you had fun and benefit from it too. 😄 :+1: 
+Hope you had fun and benefit from it too. 😄 
 
 Have an awesome day ahead. 
 
