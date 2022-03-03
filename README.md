@@ -55,8 +55,8 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 
 - [Unit($psf) - 2017](https://plotly.com/~ab.rauf/43/)
 - [Unit($psf) with outliers - 2017](https://plotly.com/~ab.rauf/41/)
-- [Unit($psf) - 2018](https://plotly.com/~ab.rauf/28/)
-- [Unit($psf) with outliers - 2018](https://plotly.com/~ab.rauf/24/)
+- [Unit($psf) - 2018](https://plotly.com/~ab.rauf/24/)
+- [Unit($psf) with outliers - 2018](https://plotly.com/~ab.rauf/22/)
 
 ![image](https://cdn.pixabay.com/photo/2014/03/15/16/34/construction-287876_1280.jpg)
 
