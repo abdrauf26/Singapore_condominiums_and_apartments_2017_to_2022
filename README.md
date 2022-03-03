@@ -66,7 +66,7 @@ Project Link:  https://github.com/abdrauf26/abdul_rauf_repo
 
  [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
  
-
+[![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://shields.io/)
 
 
 Thank you for coming in to the site here. It's been an awesome experience venturing into the data analysis process. :+1: 
