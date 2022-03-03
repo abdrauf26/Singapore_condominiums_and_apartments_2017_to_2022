@@ -24,6 +24,8 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 
 ## Built With 💻
 
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
 - Jupyter Notebook
 - Python 3.9.7
 - Pandas
@@ -66,7 +68,6 @@ Project Link:  https://github.com/abdrauf26/abdul_rauf_repo
 
  [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
  
-[![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://shields.io/)
 
 
 Thank you for coming in to the site here. It's been an awesome experience venturing into the data analysis process. :+1: 
