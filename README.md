@@ -49,10 +49,10 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 ![image](https://cdn.pixabay.com/photo/2014/03/15/16/34/construction-287876_1280.jpg)
 
 ## Contact 📧
-Abdul Rauf 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)] - rauf.yusope@gmail.com
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/abdrauf26/)
+
+Abdul Rauf [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/abdrauf26/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/abdrauf26)
 
 
