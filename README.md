@@ -54,6 +54,8 @@ Abdul Rauf -- 📧 : raufschoolbag@gmail.com --
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/abdrauf26/)
 
 ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=plastic)
+
+![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat-square)
 Project Link:  https://github.com/abdrauf26/abdul_rauf_repo
 
 ## Acknowledgements
