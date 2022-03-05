@@ -66,9 +66,18 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 
 5. [Histogram Analysis](https://drive.google.com/file/d/19Vyh_Lg-Tz21Ubs64lWdTHLTLewErrqI/view?usp=sharing)
 
-6. [Median and Mean – Unit Price ($psf)](https://drive.google.com/file/d/19Vyh_Lg-Tz21Ubs64lWdTHLTLewErrqI/view?usp=sharing)
+6. [Median and Mean – Unit Price ($psf)](https://drive.google.com/file/d/1tut1DjFn_YXxSgJwCLhA452g8Wng0lYz/view?usp=sharing)
 
-7. 
+7. [Median and Mean – Price($)](https://drive.google.com/file/d/1S_CdXDheHgLnjn1OYhKv4NJjum_kqikV/view?usp=sharing)
+
+8. [Scatter Plot – Unit Price($psf)](https://drive.google.com/file/d/1vMMl03TKb332Qd6eiPbxBQO70Crtie8L/view?usp=sharing)
+
+9. [Scatter Plot – Price($)](https://drive.google.com/file/d/1VFd6rVUAGukCrk9WV9tL2Pw9pzqxnUcl/view?usp=sharing)
+
+10. 
+
+
+
 
 
 
