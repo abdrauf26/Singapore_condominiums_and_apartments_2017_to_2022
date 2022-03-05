@@ -54,7 +54,7 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 
 ## Data Visualization 📉
 
-![image](https://user-images.githubusercontent.com/96287600/156498899-724321c5-16a1-49f6-88f6-a0da9f19f70b.png) 
+[![image](https://user-images.githubusercontent.com/96287600/156498899-724321c5-16a1-49f6-88f6-a0da9f19f70b.png)](file:///C:/Users/raufy/OneDrive/Documents/1.0%20Project%20Capstone%20Proposal%20(Real%20Estate%20Singapore)/Data%20Analysis%20-%20Singapore%20Condominiums%20and%20Apartments%20Prices.html)
 
 1. [Singapore Condominiums and Apartments correlation matrix](https://drive.google.com/file/d/1EZ5h1IMXm0HglO7kZeDBhvgog7hnPE6u/view?usp=sharing)
 
