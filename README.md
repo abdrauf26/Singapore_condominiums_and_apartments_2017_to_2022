@@ -77,7 +77,7 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 
 ![image](https://user-images.githubusercontent.com/96287600/156864494-45d1a9f6-2574-42aa-ad6c-0ee77447cda0.png)
 
-## Contact 📧
+## Contact 📧 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/abdrauf26/)  [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/abdrauf26)
 
