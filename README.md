@@ -84,7 +84,7 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 
 ![image](https://user-images.githubusercontent.com/96287600/156875756-d4c4888e-0404-4aec-956e-5eddb8ecc538.png)
 
-## Plotly Chart Studio -  Unit Price ($psf)
+## Plotly Chart Studio 
 
 - [Unit($psf) - 2017](https://plotly.com/~ab.rauf/43/)
 - [Unit($psf) - 2018](https://plotly.com/~ab.rauf/24/)
