@@ -66,9 +66,16 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 
 5. [Histogram Analysis](https://drive.google.com/file/d/19Vyh_Lg-Tz21Ubs64lWdTHLTLewErrqI/view?usp=sharing)
 
-2. PLotly Chart Studio -  Unit Price ($psf).
+6. [Median and Mean – Unit Price ($psf)](https://drive.google.com/file/d/19Vyh_Lg-Tz21Ubs64lWdTHLTLewErrqI/view?usp=sharing)
+
+7. 
+
+
+
 
 ![image](https://user-images.githubusercontent.com/96287600/156875756-d4c4888e-0404-4aec-956e-5eddb8ecc538.png)
+
+2. Plotly Chart Studio -  Unit Price ($psf).
 
 - [Unit($psf) - 2017](https://plotly.com/~ab.rauf/43/)
 - [Unit($psf) - 2018](https://plotly.com/~ab.rauf/24/)
