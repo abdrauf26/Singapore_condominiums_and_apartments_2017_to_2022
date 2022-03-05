@@ -51,6 +51,7 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 
 ## Project Insights 📖
 - [Download presentation slides for data analysis for Singapore condominiums and apartments (January 2017 and January 2022) - Unit price($psf)]( https://drive.google.com/file/d/1Xwdv_sEyHoJcnsbzGYgTuQkAhJLKDtgi/view?usp=sharing)
+- - [Download summary for data analysis for Singapore condominiums and apartments (January 2017 and January 2022) - Unit price($psf)]( https://drive.google.com/file/d/1RQhhER0jrqZ2xf_k0iWdFguHyJ8FZYUu/view?usp=sharing)
 
 ## Data Visualization 📉
 
