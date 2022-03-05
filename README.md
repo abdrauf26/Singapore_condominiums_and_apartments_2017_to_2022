@@ -56,11 +56,15 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 
 ![image](https://user-images.githubusercontent.com/96287600/156498899-724321c5-16a1-49f6-88f6-a0da9f19f70b.png)
 
-### 1. [Singapore Condominiums and Apartments correlation matrix](https://drive.google.com/file/d/1EZ5h1IMXm0HglO7kZeDBhvgog7hnPE6u/view?usp=sharing)
+1. [Singapore Condominiums and Apartments correlation matrix](https://drive.google.com/file/d/1EZ5h1IMXm0HglO7kZeDBhvgog7hnPE6u/view?usp=sharing)
 
 ### 2. [Transactions for Number of Units – 2017 to 2021](https://drive.google.com/file/d/1uf1va-gUji5GhZz1uD_Z-E__sftFiLyD/view?usp=sharing)
 
 ### 3. [Transactions for Number of Units – 2017 to 2021 (Bar Chart)](https://drive.google.com/file/d/1YOppqe_XiKfOVwljTJ8XUzZfaPqMXsKb/view?usp=sharing)
+
+### 4. [Pairplot Analysis](https://drive.google.com/file/d/1Pg_qsOjIrTXqF9qKiKUQUkWw-DsYJo45/view?usp=sharing)
+
+5. [Histogram Analysis](https://drive.google.com/file/d/19Vyh_Lg-Tz21Ubs64lWdTHLTLewErrqI/view?usp=sharing)
 
 ### 2. Trends observations in terms of Unit Price ($psf).
 
