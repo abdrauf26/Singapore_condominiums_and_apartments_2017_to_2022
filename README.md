@@ -42,6 +42,9 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 - conda install -c anaconda pandas
 - conda install -c conda-forge python-dotenv
 
+## Jupyter Notebook Document [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)](https://jupyter.org/try)
+- [Data analysis for Singapore condominiums and apartments (January 2017 and January 2022) - Unit price($psf) - Jupyter Notebook Document](https://nbviewer.org/github/abdrauf26/abdul_rauf_repo/blob/main/Jupyter_condo_apt.ipynb)
+
 ## Dataset 📊
 
 - [Download dataset for data analysis for Singapore condominiums and apartments (January 2017 and January 2022) - Unit price($psf)](https://drive.google.com/file/d/1qK5Bn_zQvD5W5Up7AD_NtSo2hH7fYMqS/view?usp=sharing)
@@ -92,6 +95,7 @@ Project Link:  https://github.com/abdrauf26/abdul_rauf_repo
 - [Data.gov.sg](https://data.gov.sg/)
 - [Github](https://github.com/)
 - [Stack Overflow](https://stackoverflow.com/)
+- [Jupyter nbviewer](https://nbviewer.org/)
 - Badges - https://badges.pages.dev/
 - Badges - https://naereen.github.io/badges/
 
