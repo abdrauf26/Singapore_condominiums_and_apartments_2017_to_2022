@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/96287600/156367866-8eb835b7-dedf-4392-a00b-3e1f43dda3ed.png)
+![image](https://user-images.githubusercontent.com/96287600/156864402-cb590ddb-8b91-4b70-a5cc-95746e9c5de2.png)
 
 The goal of the project is to carry out an industry-relevant project in applied data science that synthesizes concepts from data analysis and visualization. The project includes the thought process, EDA solving framework, and communication of insights from the dataset. For the project, a private residential property transaction dataset on the Singapore condominiums and apartments (January 2017 and January 2022) has been chosen from the following [URA](https://www.ura.gov.sg/realEstateIIWeb/transaction/search.action) website. 
 
@@ -44,8 +44,12 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 
 ## Dataset 📊
 
-- Download dataset for data analysis for Singapore condominiums and apartments (January 2017 and January 2022)
+- Download dataset for data analysis for Singapore condominiums and apartments (January 2017 and January 2022) - Unit price($psf)
 - https://drive.google.com/file/d/1qK5Bn_zQvD5W5Up7AD_NtSo2hH7fYMqS/view?usp=sharing
+
+## Project Insights 🤔
+- Download presentation slides for data analysis for Singapore condominiums and apartments (January 2017 and January 2022) - Unit price($psf)
+- https://drive.google.com/file/d/1Xwdv_sEyHoJcnsbzGYgTuQkAhJLKDtgi/view?usp=sharing
 
 ## Data Visualization 📉
 
@@ -67,7 +71,7 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 - [Unit($psf) with outliers - 2020](https://plotly.com/~ab.rauf/33/)
 - [Unit($psf) with outliers - 2021](https://plotly.com/~ab.rauf/37/)
 
-![image](https://user-images.githubusercontent.com/96287600/156515560-8bf3d14c-f4b9-4a00-8a62-f536625c7a47.png)
+![image](https://user-images.githubusercontent.com/96287600/156864494-45d1a9f6-2574-42aa-ad6c-0ee77447cda0.png)
 
 ## Contact 📧
 
