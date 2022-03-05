@@ -55,10 +55,8 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 
 ### 1. [Singapore Condominiums and Apartments correlation matrix](https://drive.google.com/file/d/1EZ5h1IMXm0HglO7kZeDBhvgog7hnPE6u/view?usp=sharing)
 
-![image](https://user-images.githubusercontent.com/96287600/156875714-82ca3ba9-3663-4f58-aded-bdb6257b969a.png)
-
 ### 2. Trends observations in terms of Unit Price ($psf).
-
+![image](https://user-images.githubusercontent.com/96287600/156875714-82ca3ba9-3663-4f58-aded-bdb6257b969a.png)
 - [Unit($psf) - 2017](https://plotly.com/~ab.rauf/43/)
 - [Unit($psf) - 2018](https://plotly.com/~ab.rauf/24/)
 - [Unit($psf) - 2019](https://plotly.com/~ab.rauf/30/)
