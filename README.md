@@ -60,7 +60,7 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 
 ### 2. [Transactions for Number of Units – 2017 to 2021](https://drive.google.com/file/d/1uf1va-gUji5GhZz1uD_Z-E__sftFiLyD/view?usp=sharing)
 
-### 3. [Transactions for Number of Units – 2017 to 2021(Bar Chart)](https://drive.google.com/file/d/1YOppqe_XiKfOVwljTJ8XUzZfaPqMXsKb/view?usp=sharing)
+### 3. [Transactions for Number of Units – 2017 to 2021 (Bar Chart)](https://drive.google.com/file/d/1YOppqe_XiKfOVwljTJ8XUzZfaPqMXsKb/view?usp=sharing)
 
 ### 2. Trends observations in terms of Unit Price ($psf).
 
