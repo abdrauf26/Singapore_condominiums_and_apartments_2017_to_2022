@@ -74,17 +74,17 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 
 9. [Scatter Plot – Price($)](https://drive.google.com/file/d/1VFd6rVUAGukCrk9WV9tL2Pw9pzqxnUcl/view?usp=sharing)
 
-10. 
+10. [Boxplot -(Unit Price($psf) 2017 to 2022)](https://drive.google.com/file/d/1DRU57qvNjR0AK8m5DoYYvkv3PXpU9suo/view?usp=sharing)
 
+11. [Bar Chart -Median Price (Q1 2017 to Q1 2022)](https://drive.google.com/file/d/1ZikNcEuE1GTKhvPGlmkLpIfhwM3vFDui/view?usp=sharing)
 
-
-
+12. [Percentage Change - Median Unit Price($psf) (January 2017 to Janaury 2022)](https://drive.google.com/file/d/1KSn0XWlTLT48y0x0xEcmBK7DSGpA0LNU/view?usp=sharing)
 
 
 
 ![image](https://user-images.githubusercontent.com/96287600/156875756-d4c4888e-0404-4aec-956e-5eddb8ecc538.png)
 
-2. Plotly Chart Studio -  Unit Price ($psf).
+## 1. Plotly Chart Studio -  Unit Price ($psf).
 
 - [Unit($psf) - 2017](https://plotly.com/~ab.rauf/43/)
 - [Unit($psf) - 2018](https://plotly.com/~ab.rauf/24/)
