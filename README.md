@@ -42,7 +42,7 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 - conda install -c anaconda pandas
 - conda install -c conda-forge python-dotenv
 
-## Jupyter Notebook Document [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+## [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 - [Download Jupyter Notebook Document for data analysis for Singapore condominiums and apartments (January 2017 and January 2022) - Unit price($psf)](https://nbviewer.org/github/abdrauf26/abdul_rauf_repo/blob/main/Jupyter_condo_apt.ipynb)
 
 ## Dataset 📊
