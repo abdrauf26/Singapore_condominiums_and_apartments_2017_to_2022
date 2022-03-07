@@ -106,6 +106,8 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 
 ![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat) - rauf.yusope@gmail.com
 
+[![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=flat)](https://medium.com/@rauf.yusope)
+
 Project Link:  https://github.com/abdrauf26/abdul_rauf_repo
 
 ## Acknowledgements
