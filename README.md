@@ -6,8 +6,8 @@ The goal of the project is to carry out an industry-relevant project in applied 
 
 ![image](https://cdn.pixabay.com/photo/2013/12/16/17/13/singapore-229387_1280.jpg)
 
-In our current times that we are living in, there are many factors involved in relation to the Singapore property and real estate prices.
-Over the past 5 years that includes the COVID-19 period between January 2020 to January 2022, it has been an interesting journey of constant changes and adaptability.
+Over the last 20 years, the private residential price index had shown that property prices have increased through the years. In our current times that we are living in, there are many factors involved in relation to the Singapore property and real estate prices. Over the past 5 years that includes the COVID-19 period between January 2020 to January 2022, it has been an interesting journey of constant changes and adaptability. 
+
 The data analysis for this project will include Singapore Condominium & Apartment Prices dataset between the period of January 2017 to January 2022. Through the data analysis, it aims to enable one to understand the different characteristics of the properties within all the districts, the real estate trends in current times and see its correlations to the different factors such as :
 
 - Unit Price($psf)
@@ -40,7 +40,6 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 - conda install -c conda-forge matplotlib
 - conda install -c anaconda seaborn
 - conda install -c anaconda pandas
-- conda install -c conda-forge python-dotenv
 
 ## [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 - [Download Jupyter Notebook Document for data analysis for Singapore condominiums and apartments (January 2017 and January 2022) - Unit price($psf)](https://nbviewer.org/github/abdrauf26/abdul_rauf_repo/blob/main/Jupyter_condo_apt.ipynb)
