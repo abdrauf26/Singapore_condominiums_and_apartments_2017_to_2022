@@ -57,38 +57,33 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 ![image](https://user-images.githubusercontent.com/96287600/156498899-724321c5-16a1-49f6-88f6-a0da9f19f70b.png)
 
 1. [Singapore Condominiums and Apartments correlation matrix](https://drive.google.com/file/d/1xVjynsrXh1guALilhzd-SbwwhABmotRn/view?usp=sharing)
-
 2. [Transactions for Number of Units – 2017 to 2021](https://drive.google.com/file/d/1zMzQrsezRQ9g0Wdz3WnO1KSv-FKbOawj/view?usp=sharing)
-
 3. [Transactions for Number of Units – 2017 to 2021 (Bar Chart)](https://drive.google.com/file/d/1_ASp0k10x9qMnlxlZZG8tPZuGJJaE7lC/view?usp=sharing)
-
 4. [Pairplot Analysis](https://drive.google.com/file/d/1um6YIBkOuvGplBllN_szYInJqVp0bzd-/view?usp=sharing)
-
 5. [Histogram Analysis](https://drive.google.com/file/d/1I15IdsYoD-1wirgmzEra-sBvV0WTT6OY/view?usp=sharing)
-
 6. [Median and Mean – Unit Price ($psf)](https://drive.google.com/file/d/1T6m9qlvg6AeOOOcfhgK1jyH5uc8IZ-ZR/view?usp=sharing)
-
 7. [Scatter Plot – Unit Price($psf)](https://drive.google.com/file/d/1fBzpJ0km-M_bpxpOg8iEWCXFgjjRZsTR/view?usp=sharing)
-
 8. [Scatter Plot – Price($)](https://drive.google.com/file/d/14iJzZARyp5XZgpCG-kR_YUqJ5EGaPY9E/view?usp=sharing)
-
 9. [Boxplot -(Unit Price($psf) 2017 to 2022)](https://drive.google.com/file/d/1W4fDlO3bB5Q0ycc6JIcEe4kQas9M7qFB/view?usp=sharing)
-
 10. [Bar Chart -Median Price (Q1 2017 to Q4 2021)](https://drive.google.com/file/d/1icp03TM5jIq2WPPAeelRo4QU_eXASlWd/view?usp=sharing)
-
 11. [Percentage Change - Median Unit Price($psf) (January 2017 to Janaury 2022)](https://drive.google.com/file/d/1GS0AFPRGUQ260nEyezcIoAlIEON53AF5/view?usp=sharing)
 12. [Number of transactions - Area (Sq ft) - 2020](https://drive.google.com/file/d/1p_VulcUC5zZNQBk-cSIKqVf950bP0FqI/view?usp=sharing)
 13. [Number of transactions - Area (Sq ft) - 2021](https://drive.google.com/file/d/1GJzk9KlDBPRMCC3YcZeOf4GMUY8sVRZP/view?usp=sharing)
 14. [Parallel Coordinates Plot](https://drive.google.com/file/d/1Q9ZxwdxCj7WIFLjZinc3SCkjjpLog8Zr/view?usp=sharing)
 15. [Parallel Coordinates Plot - Unit Price < $3000 psf](https://drive.google.com/file/d/1lFNLWroteFS1q3lWh3DBNcIGXn326AYI/view?usp=sharing)
 16. [Parallel Coordinates Plot - Unit Price > $3000 psf](https://drive.google.com/file/d/11uu_U9mKXkJb-MCAo3QNYzSbFZq8ZKN1/view?usp=sharing)
+17. [Unit Price ($psf) within the districts](https://drive.google.com/file/d/1K3NMkB9LPSoRjRGbfN8Uj2Rg3Bwrhq5d/view?usp=sharing)
+18. [Maximum Unit Price ($psf) within districts](https://drive.google.com/file/d/13Mgd-GV6wsXGkNMrOavSE-SRxB9Tb4N4/view?usp=sharing)
+19. [Mean Unit Price ($psf) within districts](https://drive.google.com/file/d/1zwmiGnhwizM1AttWPdV1agYicduzger6/view?usp=sharing)
+20. [Median Unit Price ($psf) within districts](https://drive.google.com/file/d/1noiITMU7rPil7CHbLCWKsIXULyXEuaAR/view?usp=sharing)
+21. [Minimum Unit Price ($psf) within districts](https://drive.google.com/file/d/1Ov4HPhaq8MZWVpoZiNrXcODz0MhsmtC9/view?usp=sharing)
 
 
 
 
 ![image](https://user-images.githubusercontent.com/96287600/156875756-d4c4888e-0404-4aec-956e-5eddb8ecc538.png)
 
-## Plotly Chart Studio 
+## Plotly Chart Studio [Maximum Unit Price ($psf) within districts](https://drive.google.com/file/d/13Mgd-GV6wsXGkNMrOavSE-SRxB9Tb4N4/view?usp=sharing
 
 - [Unit($psf) - 2017](https://plotly.com/~ab.rauf/43/)
 - [Unit($psf) - 2018](https://plotly.com/~ab.rauf/24/)
