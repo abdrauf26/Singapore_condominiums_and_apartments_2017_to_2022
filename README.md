@@ -43,7 +43,7 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 - conda install -c anaconda pandas
 
 ## [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-- [Download Jupyter Notebook Document for How we found out that 2021 had the highest volume of sales for Singapore Condominiums and Apartments, using Big Data.](https://nbviewer.org/github/abdrauf26/condo_apt_repo/blob/main/sg_condo_apt_2017_to_2021.ipynb)
+- [Download Jupyter Notebook Document for How we found out that 2021 had the highest volume of sales for Singapore Condominiums and Apartments, using Big Data.](https://github.com/abdrauf26/condo_apt_repo/blob/main/sg_condo_apt_2017_to_2021.ipynb)
 
 ## Dataset 📊
 
