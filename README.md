@@ -72,14 +72,6 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 14. [Parallel Coordinates Plot](https://drive.google.com/file/d/1Q9ZxwdxCj7WIFLjZinc3SCkjjpLog8Zr/view?usp=sharing)
 15. [Parallel Coordinates Plot - Unit Price < $3000 psf](https://drive.google.com/file/d/1lFNLWroteFS1q3lWh3DBNcIGXn326AYI/view?usp=sharing)
 16. [Parallel Coordinates Plot - Unit Price > $3000 psf](https://drive.google.com/file/d/11uu_U9mKXkJb-MCAo3QNYzSbFZq8ZKN1/view?usp=sharing)
-17. [Unit Price ($psf) within the districts](https://drive.google.com/file/d/1K3NMkB9LPSoRjRGbfN8Uj2Rg3Bwrhq5d/view?usp=sharing)
-18. [Maximum Unit Price ($psf) within districts](https://drive.google.com/file/d/13Mgd-GV6wsXGkNMrOavSE-SRxB9Tb4N4/view?usp=sharing)
-19. [Mean Unit Price ($psf) within districts](https://drive.google.com/file/d/1zwmiGnhwizM1AttWPdV1agYicduzger6/view?usp=sharing)
-20. [Median Unit Price ($psf) within districts](https://drive.google.com/file/d/1noiITMU7rPil7CHbLCWKsIXULyXEuaAR/view?usp=sharing)
-21. [Minimum Unit Price ($psf) within districts](https://drive.google.com/file/d/1Ov4HPhaq8MZWVpoZiNrXcODz0MhsmtC9/view?usp=sharing)
-
-
-
 
 ![image](https://user-images.githubusercontent.com/96287600/156875756-d4c4888e-0404-4aec-956e-5eddb8ecc538.png)
 
