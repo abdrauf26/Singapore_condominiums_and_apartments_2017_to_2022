@@ -50,7 +50,7 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 - [Download dataset for Why 2021 had the highest volume of sales for Singapore Condominium and Apartments, using Data](https://drive.google.com/file/d/1qIS5h3a6e4OuwvgfG2Dp8vmZi2BanECe/view?usp=sharing)
 
 ## Project Insights 📖
-- [Download presentation slides for Why 2021 had the highest volume of sales for Singapore Condominium and Apartments, using Data](https://drive.google.com/file/d/1JVYj9ZlT_F087HeTe9miV4Sh9ifwrK_8/view?usp=sharing)
+- [Download presentation slides for Why 2021 had the highest volume of sales for Singapore Condominium and Apartments, using Data](![image](https://user-images.githubusercontent.com/96287600/160589126-7cd2ba2a-93f0-442c-9007-742a64a1672c.png))
 
 ## Data Visualization 📉
 
