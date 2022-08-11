@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/96287600/159918338-a10e600c-fba3-4dbf-b366-652360090866.png)
+![image](https://user-images.githubusercontent.com/96287600/184101344-e270a751-f741-4617-9bc2-c0c722f7e2f6.png)
 
 
 The goal of the project is to carry out an industry-relevant project in applied data science that synthesizes concepts from data analysis and visualization. The project includes the thought process, EDA solving framework, and communication of insights from the dataset. For the project, a private residential property transaction dataset on the Singapore condominiums and apartments (January 2017 and January 2022) has been chosen from the following [URA](https://www.ura.gov.sg/realEstateIIWeb/transaction/search.action) website. 
@@ -43,14 +43,15 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 - conda install -c anaconda pandas
 
 ## [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-- [Download Jupyter Notebook Document for Why 2021 had the highest volume of sales for Singapore Condominium and Apartments, using Data](https://nbviewer.org/github/abdrauf26/condo_apt_repo/blob/main/sg_condo_apartment_2017_to_2021.ipynb)
+- [Download Jupyter Notebook Document for Singapore Condominiums and Apartments Analysis, Using Data
+(January 2020 to January 2022)](https://nbviewer.org/github/abdrauf26/condo_apt_repo/blob/main/sg_condo_apartment_2017_to_2021.ipynb)
 
 ## Dataset 📊
 
-- [Download dataset for Why 2021 had the highest volume of sales for Singapore Condominium and Apartments, using Data](https://drive.google.com/file/d/1qIS5h3a6e4OuwvgfG2Dp8vmZi2BanECe/view?usp=sharing)
+- [Download dataset for Singapore Condominiums and Apartments Analysis, Using Data (January 2020 to January 2022)](https://drive.google.com/file/d/1qIS5h3a6e4OuwvgfG2Dp8vmZi2BanECe/view?usp=sharing)
 
 ## Project Insights 📖
-- [Download presentation slides for Why 2021 had the highest volume of sales for Singapore Condominium and Apartments, using Data](https://drive.google.com/file/d/1aRucx9SIgvX9WwgxxBdGQu9AGb8w6f_r/view?usp=sharing)
+- [Download presentation slides for Singapore Condominiums and Apartments Analysis, Using Data (January 2020 to January 2022)](https://drive.google.com/file/d/1aRucx9SIgvX9WwgxxBdGQu9AGb8w6f_r/view?usp=sharing)
 
 ## Data Visualization 📉
 
