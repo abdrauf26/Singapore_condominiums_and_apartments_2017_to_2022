@@ -51,7 +51,7 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 - [Download dataset for Singapore Condominiums and Apartments Analysis, Using Data (January 2020 to January 2022)](https://drive.google.com/file/d/1qIS5h3a6e4OuwvgfG2Dp8vmZi2BanECe/view?usp=sharing)
 
 ## Project Insights 📖
-- [Download presentation slides for Singapore Condominiums and Apartments Analysis, Using Data (January 2020 to January 2022)](https://drive.google.com/file/d/1YwBJgDe1ruIdykVBPiZNLhd-WJjDP3CW/view?usp=sharing)
+- [Download presentation slides for Singapore Condominiums and Apartments Analysis, Using Data (January 2020 to January 2022)](https://drive.google.com/file/d/1UGoVZU-XANzFGOdsubQZSbEJk4Gd_MBG/view?usp=sharing)
 
 
 ## Data Visualization 📉
