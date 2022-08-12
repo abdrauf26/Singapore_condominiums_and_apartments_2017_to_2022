@@ -44,14 +44,14 @@ The data analysis for this project will include Singapore Condominium & Apartmen
 
 ## [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 - [View Jupyter Notebook Document for Singapore Condominiums and Apartments Analysis, Using Data
-(January 2020 to January 2022)](https://nbviewer.org/github/abdrauf26/condo_apt_repo/blob/main/sg_condo_apartment_2017_to_2021.ipynb)
+(January 2017 to January 2022)](https://nbviewer.org/github/abdrauf26/condo_apt_repo/blob/main/sg_condo_apartment_2017_to_2021.ipynb)
 
 ## Dataset 📊
 
-- [Download dataset for Singapore Condominiums and Apartments Analysis, Using Data (January 2020 to January 2022)](https://drive.google.com/file/d/1qIS5h3a6e4OuwvgfG2Dp8vmZi2BanECe/view?usp=sharing)
+- [Download dataset for Singapore Condominiums and Apartments Analysis, Using Data (January 2017 to January 2022)](https://drive.google.com/file/d/1qIS5h3a6e4OuwvgfG2Dp8vmZi2BanECe/view?usp=sharing)
 
 ## Project Insights 📖
-- [Download presentation slides for Singapore Condominiums and Apartments Analysis, Using Data (January 2020 to January 2022)](https://drive.google.com/file/d/1FH1bcrWqctaoNOQIQzT4doKGg3IoTqDO/view?usp=sharing)
+- [Download presentation slides for Singapore Condominiums and Apartments Analysis, Using Data (January 2017 to January 2022)](https://drive.google.com/file/d/1FH1bcrWqctaoNOQIQzT4doKGg3IoTqDO/view?usp=sharing)
 
 
 ## Data Visualization 📉
