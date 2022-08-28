@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/96287600/184282898-6aa1541a-2865-4d46-8531-a8435be6ed49.png)
+![image](https://user-images.githubusercontent.com/96287600/187082688-1e21ebbd-5cbc-4741-97d7-a3a073b6342e.png)
 
 
 The goal of the project is to carry out an industry-relevant project in applied data science that synthesizes concepts from data analysis and visualization. The project includes the thought process, EDA solving framework, and communication of insights from the dataset. For the project, a private residential property transaction dataset on the Singapore condominiums and apartments (January 2017 and January 2022) has been chosen from the following [URA](https://www.ura.gov.sg/realEstateIIWeb/transaction/search.action) website. 
