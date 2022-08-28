@@ -49,7 +49,7 @@ Over the last 20 years, the private residential price index had shown that prope
 - [Download dataset for Singapore Condominiums and Apartments Analysis, Using Data (January 2017 to January 2022)](https://drive.google.com/file/d/1qIS5h3a6e4OuwvgfG2Dp8vmZi2BanECe/view?usp=sharing)
 
 ## Project Insights 📖
-- [Download presentation slides for Singapore Condominiums and Apartments Analysis, Using Data (January 2017 to January 2022)](https://drive.google.com/file/d/16o2Z6bwfMIV22nlaXeiHT1X5AfW-42F-/view?usp=sharing)
+- [Download presentation slides for Singapore Condominiums and Apartments Analysis, Using Data (January 2017 to January 2022)](https://drive.google.com/file/d/1DaGvCnGzKe5XctnFRnzn8kCTcN7I3oo3/view?usp=sharing)
 
 
 ## Data Visualization 📉
