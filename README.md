@@ -5,8 +5,6 @@ The goal of the project is to carry out an industry-relevant project in applied 
 
 ## Problem Statement 
 
-![image](https://cdn.pixabay.com/photo/2013/12/16/17/13/singapore-229387_1280.jpg)
-
 Over the last 20 years, the private residential price index had shown that property prices have increased through the years. In our current times that we are living in, there are many factors involved in relation to the Singapore property and real estate prices. The data analysis for this project will include Singapore Condominium & Apartment Prices dataset between the period of January 2017 to January 2022. Through the data analysis, it aims to enable one to understand the different characteristics of the properties within all the districts, the real estate trends in current times and see its correlations to the different factors such as :
 
 - Unit Price($psf)
@@ -111,7 +109,7 @@ Over the last 20 years, the private residential price index had shown that prope
 - Badges - https://naereen.github.io/badges/
 - Badges - https://github.com/Ileriayo/markdown-badges#-office
 
-![image](https://cdn.pixabay.com/photo/2014/03/15/16/34/construction-287876_1280.jpg)
+
 
 
 
