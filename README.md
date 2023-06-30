@@ -1,4 +1,5 @@
 ![image](https://user-images.githubusercontent.com/96287600/187084150-08056cbc-da88-4581-bdbd-da3dff57d42e.png)
+<img width="721" alt="image" src="https://github.com/abdrauf26/condo_apt_repo/assets/96287600/a700ee3e-9843-4925-844b-ac1436fa0a31">
 
 
 The goal of the project is to carry out an industry-relevant project in applied data science that synthesizes concepts from data analysis and visualization. The project includes the thought process, EDA solving framework, and communication of insights from the dataset. For the project, a private residential property transaction dataset on the Singapore condominiums and apartments (January 2017 and January 2022) has been chosen from the following [URA](https://www.ura.gov.sg/realEstateIIWeb/transaction/search.action) website. 
@@ -47,7 +48,7 @@ Over the last 20 years, the private residential price index had shown that prope
 - [Download dataset for Singapore Condominiums and Apartments Analysis, Using Data (January 2017 to January 2022)](https://drive.google.com/file/d/1qIS5h3a6e4OuwvgfG2Dp8vmZi2BanECe/view?usp=sharing)
 
 ## Project Insights 📖
-- [Download presentation slides for Singapore Condominiums and Apartments Analysis, Using Data (January 2017 to January 2022)](https://drive.google.com/file/d/1DaGvCnGzKe5XctnFRnzn8kCTcN7I3oo3/view?usp=sharing)
+- [Download presentation slides for Singapore Condominiums and Apartments Analysis, Using Data (January 2017 to January 2022)](https://drive.google.com/file/d/1xqllw4aJK1kKEgQRWvQFlE09oSHFpePE/view?usp=sharing)
 
 
 ## Data Visualization 📉
