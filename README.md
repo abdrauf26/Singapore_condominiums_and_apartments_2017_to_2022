@@ -1,4 +1,6 @@
 ![image](https://user-images.githubusercontent.com/96287600/187084150-08056cbc-da88-4581-bdbd-da3dff57d42e.png)
+<img width="960" alt="image" src="https://github.com/abdrauf26/condo_apt_repo/assets/96287600/aa9054ce-0254-47be-9fcf-8347c6a4b116">
+
 <img width="721" alt="image" src="https://github.com/abdrauf26/condo_apt_repo/assets/96287600/a700ee3e-9843-4925-844b-ac1436fa0a31">
 
 
